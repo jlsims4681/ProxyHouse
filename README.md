@@ -16,7 +16,7 @@ $ git clone https://github.com/BrianWalczak/ProxyHouse.git
 $ cd ProxyHouse
 $ npm install
 $ npm start
-```
+``` 
 Once you run ``npm start``, the web server will run on port 3000, or the PORT environment variable (if there is one)
 
 # Authors
