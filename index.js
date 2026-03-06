@@ -27,7 +27,7 @@ server.on('upgrade', (req, socket, head) => {
 		socket.end();
 	}
 });
-
+module.exports = app;
 server.listen({
 	port: process.env.PORT || 3000,
 });
